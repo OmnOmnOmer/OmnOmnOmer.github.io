@@ -1,0 +1,45 @@
+#header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+#main {
+}
+
+#footer {
+  margin-top: 64px;
+  text-align: center;
+  font-size: smaller;
+}
+p {
+  margin-bottom: 40px;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 400;
+}
+h1 {
+  font-size: 36px;
+  margin-bottom: 0px;
+}
+h2 {
+  border-bottom-style: ridge;
+  font-size: 32px;
+  border-bottom-width: 1px;
+  border-bottom-color: gray;
+  margin-bottom: 8px;
+}
+
+.importent {
+  font-weight: bold;
+}
+ul {
+  margin-bottom: 40px;
+}
+
+h2.header-titel {
+  font-size: 18px;
+  border-bottom: none;
+  margin-bottom: 10px;
+}
